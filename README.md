@@ -1,2 +1,1 @@
-<img width="2170" height="725" alt="Burgundy and Ivory Lilies in Shadow" src="https://github.com/user-attachments/assets/ed15c78d-699e-48c1-b097-74bde511dac1" />
-
+<img width="1000" height="300" alt="cherrybanner" src="https://github.com/user-attachments/assets/f284b66c-b81a-4b66-927b-21cec03f62e5" />
